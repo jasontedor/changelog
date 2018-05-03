@@ -22,6 +22,8 @@
 
 === New Features
 
+I made a change
+
 === Enhancements
 
 === Bug Fixes
